@@ -16,4 +16,4 @@ IT student at **Taif University** (graduating 2027), building my career as a **S
 
 ## 📫 Contact
 
-LinkedIn: coming soon
+LinkedIn: [Abdulaziz Al-Thaqafi](https://www.linkedin.com/in/abdulaziz-al-thaqafi-0250823ab)
