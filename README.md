@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdulaziz 👋
 
-<!--
-**abdulaziz-thaqafi/abdulaziz-thaqafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at **Taif University** (graduating 2027), building my career as a **SOC Analyst** 🛡️
 
-Here are some ideas to get you started:
+## 🚀 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying for **CompTIA Security+**
+- Practicing hands-on labs on **TryHackMe**
+- Building my graduation project **G.P.T.M.S** with Flutter & Firebase
+
+## 🧰 Skills
+
+- Networking, Linux & Windows fundamentals
+- Databases & SQL
+- Flutter & Firebase
+
+## 📫 Contact
+
+LinkedIn: coming soon
